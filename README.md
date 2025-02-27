@@ -2,9 +2,8 @@
 
 Ссылка на телеграмм: @Helper_Anton_bot
 
-[Скриншот 1](https://github.com/32960/Propt-engeneering/blob/main/Screenshot_1.jpg)
-[Скриншот 2](https://github.com/32960/Propt-engeneering/blob/main/Screenshot_2.jpg)
-
+[Скриншот 1](https://github.com/32960/Propt-engeneering/blob/main/Screenshot_1.jpg?raw=true)
+[Скриншот 2](https://github.com/32960/Propt-engeneering/blob/main/Screenshot_2.jpg?raw=true)
 
 ## Описание проекта
 
